@@ -1,0 +1,6 @@
+MCQ,Choices,Correct
+What is the primary goal of machine learning?,a: To write software programs by hand. | b: To analyze data without making predictions. | c: To enable computers to learn from data and make predictions. | d: To replace human intelligence entirely.,c
+When was the term 'machine learning' first coined?,a: 1940s | b: 1950s | c: 1960s | d: 1970s,b
+Which of the following is NOT a common application of machine learning?,a: Email filtering | b: Predicting stock prices | c: Solving complex mathematical equations | d: Recognizing handwritten text,c
+What is the role of 'unsupervised learning' in data mining?,a: Training a model with labeled data. | b: Making predictions based on existing models. | c: Exploring data to discover patterns without specific guidance. | d: Evaluating the performance of a machine learning model.,c
+Who provided a widely used formal definition of machine learning algorithms?,a: Arthur Samuel | b: Alan Turing | c: Donald Hebb | d: Tom M. Mitchell,d
